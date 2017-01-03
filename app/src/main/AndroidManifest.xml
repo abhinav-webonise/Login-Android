@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".SuccessfullyLoggedIn" />
-        <activity android:name=".Failed"></activity>
+        <activity android:name=".Failed" />
+        <activity android:name=".SignupScreen" />
+        <activity android:name=".Forget"></activity>
     </application>
 
 </manifest>
